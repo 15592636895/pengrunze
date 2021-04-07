@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="province">
+        <item>江西省</item>
+        <item>湖南省</item>
+        <item>福建省</item>
+        <item>浙江省</item>
+    </array>
+</resources>
